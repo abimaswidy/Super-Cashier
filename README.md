@@ -25,11 +25,11 @@ Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang bia
 
 ![3](https://github.com/abimaswidy/pacmann_project/assets/136919706/5e779b93-1116-4d15-9ca4-4f74672b3f2e)
 
-![4](https://github.com/abimaswidy/pacmann_project/assets/136919706/29f713ff-c44f-4af3-b931-3d7cc02d29e7)
+![4](https://github.com/abimaswidy/pacmann_project/assets/136919706/41cbfe15-ca95-40f3-adf4-613d50bf842e)
 
-![5](https://github.com/abimaswidy/pacmann_project/assets/136919706/1f614ab2-47cb-4f4e-b5b2-cce0a2a29385)
+![5](https://github.com/abimaswidy/pacmann_project/assets/136919706/82729608-c449-4645-890d-870296de239f)
 
-![6](https://github.com/abimaswidy/pacmann_project/assets/136919706/fde8eb86-8edf-4850-b187-be3d47f1850e)
+![6](https://github.com/abimaswidy/pacmann_project/assets/136919706/4fe798de-32e6-4436-915e-d7f8627fadde)
 
 ![7](https://github.com/abimaswidy/pacmann_project/assets/136919706/6dd1311c-a6c8-43ab-a6b9-6213fbb4d447)
 
