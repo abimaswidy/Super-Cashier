@@ -34,3 +34,14 @@ Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang bia
 ![7](https://github.com/abimaswidy/pacmann_project/assets/136919706/6dd1311c-a6c8-43ab-a6b9-6213fbb4d447)
 
 3. Menghapus produk yang sudah terdaftar
+
+![8](https://github.com/abimaswidy/pacmann_project/assets/136919706/62bc66e5-5a6c-4d79-bb54-2abd87903950)
+
+![9](https://github.com/abimaswidy/pacmann_project/assets/136919706/410126d4-468d-40db-8147-9f6dcdb22f39)
+
+![10](https://github.com/abimaswidy/pacmann_project/assets/136919706/7028de34-1c49-46fb-b322-b88d4fdc6032)
+
+![11](https://github.com/abimaswidy/pacmann_project/assets/136919706/2a253114-d8fc-4de2-8110-d2136e9a0dcd)
+
+
+4. 
