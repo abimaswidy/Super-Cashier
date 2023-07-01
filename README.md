@@ -1,4 +1,5 @@
 # pacmann_project_python
+Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang biasanya terjadi dalam suatu transaksi 
 
 # Tujuan Pengerjaan Project
 1. Membuat program cashier sederhana yang dapat melakukan tugas:
