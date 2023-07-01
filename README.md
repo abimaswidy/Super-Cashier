@@ -15,13 +15,15 @@ Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang bia
 # Hasil Test Case
 1. Daftar produk
 
-Memilih opsi nomor 1
+Memilih opsi 1
 
 ![2](https://github.com/abimaswidy/pacmann_project/assets/136919706/bd8de0cd-f261-4024-9169-8220b6a67cd1)
 
 ![1](https://github.com/abimaswidy/pacmann_project/assets/136919706/3c4c1530-8c1a-4a55-a78c-2c0b14ac1472)
 
 2. Penambahan/update produk
+
+Memilih opsi 2
 
 ![2](https://github.com/abimaswidy/pacmann_project/assets/136919706/bd8de0cd-f261-4024-9169-8220b6a67cd1)
 
@@ -37,6 +39,8 @@ Memilih opsi nomor 1
 
 3. Menghapus produk yang sudah terdaftar
 
+Memilih opsi 3
+
 ![2](https://github.com/abimaswidy/pacmann_project/assets/136919706/84980054-0888-4e93-88d0-22a8baa63d9b)
 
 ![8](https://github.com/abimaswidy/pacmann_project/assets/136919706/62bc66e5-5a6c-4d79-bb54-2abd87903950)
@@ -49,6 +53,8 @@ Memilih opsi nomor 1
 
 
 4. Pembelian produk
+
+Memilih opsi 4
 
 ![2](https://github.com/abimaswidy/pacmann_project/assets/136919706/f90011a0-fc96-477c-8c32-e9f0b7be7597)
 
