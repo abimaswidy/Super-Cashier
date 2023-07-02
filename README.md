@@ -1,4 +1,4 @@
-![image](https://github.com/abimaswidy/pacmann_project/assets/136919706/5a0e19aa-0ff0-469e-b0b1-763ae9000c98)# pacmann_project_python
+# pacmann_project_python
 Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang biasanya terjadi dalam suatu transaksi
 
 # Tujuan Pengerjaan Project
