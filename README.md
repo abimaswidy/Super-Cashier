@@ -62,8 +62,6 @@ Memilih opsi 4
 
 ![13](https://github.com/abimaswidy/pacmann_project/assets/136919706/9e1ba969-9044-4aa6-9d02-b9decdf70de3)
 
-![14](https://github.com/abimaswidy/pacmann_project/assets/136919706/65adc421-c7e2-40d3-a6cf-4d3ef2433bda)
-
 ![15](https://github.com/abimaswidy/pacmann_project/assets/136919706/811999fa-a457-4b1a-a0a4-c01609c81380)
 
 ![16](https://github.com/abimaswidy/pacmann_project/assets/136919706/11eca056-b491-492a-b833-902c3f90d138)
