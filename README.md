@@ -10,8 +10,6 @@ Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang bia
 2. Membuat program dengan bahasa pemrograman Python
 3. Mengaplikasikan pembuatan program yang berbasis fungsi (function)
 
-# Cara Menggunakan Program
-
 # Hasil Test Case
 1. Daftar produk
 
