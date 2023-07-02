@@ -1,4 +1,4 @@
-# pacmann_project_python
+# Super Cashier
 Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang biasanya terjadi dalam suatu transaksi
 
 # Tujuan Pengerjaan Project
