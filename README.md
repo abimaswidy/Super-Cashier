@@ -11,6 +11,8 @@ Pembuatan program cashier sedehana untuk menyelasaikan beberapa masalah yang bia
 3. Mengaplikasikan pembuatan program yang berbasis fungsi (function)
 
 # Hasil Test Case
+
+# Hasil Test Case
 1. Daftar produk
 
 Memilih opsi 1
